@@ -238,13 +238,13 @@ span {
     }
 }
 .fabimage {
-    width: 26vw;
+    width: 26.5vw;
     height: 65vh;
     border-radius: 5px;
 }
 #about, #works {
     background-color: black;
-    opacity:0.85;
+    opacity:0.90;
     border-radius: 5px;
 }
 .section2, .section4{
